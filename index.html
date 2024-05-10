@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Boat Control</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1>MATRIX MANIA</h1>
+    <div class="main">
+      <div class="controller">
+        <img src="Images/controller2.png" alt="Controller" />
+        <div class="buttons">
+          <button class="button-forward" onclick="moveForward()">F</button>
+          <button class="button-left" onclick="moveLeft()">L</button>
+          <button class="button-right" onclick="moveRight()">R</button>
+          <button class="button-backward" onclick="moveBackward()">B</button>
+        </div>
+        <a onclick="Camera()">
+          <img class="camera" src="Images/camera2.png" alt="Camera" />
+        </a>
+        <a onclick="gps()">
+          <img class="gps" src="Images/gps.png" alt="gps" />
+        </a>
+        <a onclick="Light()">
+          <img class="light" src="Images/light.png" alt="light" />
+        </a>
+        <a onclick="Power()">
+          <img class="on" src="Images/on.png" alt="on" />
+        </a>
+        <a onclick="About()">
+          <img class="about" src="Images/about.png" alt="about" />
+        </a>
+        <a onclick="Conveyor()">
+          <img class="cb" src="Images/cb.png" alt="cb" />
+        </a>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
