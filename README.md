@@ -14,13 +14,9 @@ This project provides a web-based controller for managing a boat. Users can perf
     - Access the boat’s camera feed
 
 ## Key Features
-#### Intuitive Interface:
 - The user-friendly design ensures easy navigation and quick access to controls.
-#### Real-Time Feedback:
 - Receive immediate feedback on boat movement and device status.
-#### Responsive Design:
 - The interface adapts to different screen sizes (desktop, tablet, mobile).
-#### Camera Integration:
 - View live camera footage from the boat for monitoring and navigatio
 
 ## Installation:
