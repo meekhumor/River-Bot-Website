@@ -1,8 +1,7 @@
-
     
-# Boat Control Web Interface
+# 🚢 Boat Control Web Interface 🚢
 
-## Overview:
+## 📝 Overview:
 
 This project provides a web-based controller for managing a boat. Users can perform the following actions:
 - **Movement Control:**
@@ -13,13 +12,13 @@ This project provides a web-based controller for managing a boat. Users can perf
     - Interact with the GPS system.
     - Access the boat’s camera feed
 
-## Key Features
+## ⭐ Key Features
 - The user-friendly design ensures easy navigation and quick access to controls.
 - Receive immediate feedback on boat movement and device status.
 - The interface adapts to different screen sizes (desktop, tablet, mobile).
 - View live camera footage from the boat for monitoring and navigatio
 
-## Installation:
+## 🛠️ Installation:
 #### Prerequisites:
 - Install a code editor (e.g., Visual Studio Code, Sublime Text).
 - Clone or download this repository.
@@ -27,7 +26,7 @@ This project provides a web-based controller for managing a boat. Users can perf
 - Open `index.html` in your code editor.
 - Use a live server extension (e.g., “Go Live” in VS Code) to view the website.
 
-## Usage:
+## 🖥️ Usage:
 - Open the live server URL in your web browser.
 - Explore the boat control interface:
     - Use the directional buttons for movement.
@@ -35,7 +34,7 @@ This project provides a web-based controller for managing a boat. Users can perf
     - View the GPS data and camera feed.
 
 
-## Screenshots:
+## 📸 Screenshots:
 
 #### Boat Controller Interface:
 
